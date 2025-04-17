@@ -1,6 +1,6 @@
 @font-face {
     font-family: Myriad;
-    src: url("Myriad.ttf");
+    src: url("../fonts/Myriad.ttf");
 }
 
 body {
@@ -31,14 +31,6 @@ fieldset {
     border: none;
 }
 
-/*form.send_form {
-    position: absolute;
-    width: 600px;
-    left: 50%;
-    margin-left: -250px;
-    top: 120px;
-}*/
-
 div.horizon {
     position: absolute;
     height: 1px;
@@ -62,7 +54,7 @@ div.the_world {
     width: 100%;
     height: 100%;
     margin: 0 0 0 0;
-    background-image: url("img/background01.jpg");
+    background-image: url("../img/background01.jpg");
     background-size: cover;
     background-position-x: 100%;
     background-position-y: 50%;
@@ -87,19 +79,13 @@ div.shadow {
     padding: 10px 10px 10px 10px;
 }
 
-div.login {
-    width: 300px;
-    height: 180px;
-    background-color: white;
-}
-
 div.loading {
     z-index: 5;
     position: fixed;
     width: 100%;
     height: 100%;
     background-color: black;
-    background-image: url('./img/Persona4_loading.gif');
+    background-image: url('../img/Persona4_loading.gif');
     background-position: bottom right;
     background-repeat: no-repeat;
     display: none;
@@ -174,30 +160,6 @@ span.miniwarning {
     font-size: 10pt;
 }
 
-p.vote_message {
-    font-size: 10pt;
-}
-
-nav.subsettings {
-    position: absolute;
-    right: 30%;
-    top: 60px;
-    background-color: rgba(255, 255, 196, 0);
-}
-
-a.subsettings {
-    font-size: 18pt;
-    margin-right: 5pt;
-}
-
-section.settings {
-    display: none;
-}
-
-section.settings header {
-    font-size: 110%;
-}
-
 section.normal_user {
     display: block;
 }
@@ -213,27 +175,6 @@ p.another_joke {
 p.another_joke a {
     color: #FF7777;
     font-size: 150%;
-}
-
-div.profile {
-    
-}
-
-span.no_profile {
-    font-size: 80%;
-    font-style: italic;
-    opacity: 0.8;
-}
-
-.country {
-    left: 50%;
-    top: 100px;
-    position: absolute;
-    width: 600px;
-    margin-left: -300px;
-    background-color: rgba(255, 255, 0, 0.75);
-    border-radius: 12px;
-    padding: 12px 12px 12px 12px;
 }
 
 div.faq {
@@ -357,10 +298,6 @@ div.tune_player {
     top: 12%;
 }
 
-div.tune_player table {
-    
-}
-
 div.tune_player td {
     padding-top: 2px;
     padding-bottom: 2px;
@@ -374,11 +311,6 @@ div.tune_player td.hide_button {
 div.tune_player td.hide_button p {
     font-size: 14pt;
     color: white;
-    /*transform: rotate(270deg);*/
-}
-
-.tune_player_ani_common {
-    
 }
 
 .tune_player_show {
