@@ -57,7 +57,7 @@ function move_selection(e) {
 
 function space_pass(e) {
     document.addEventListener('keydown', function(e) {
-        if (document.querySelector('div#main_joke_div')) {
+        if (document.querySelector('body')) {
 			if (e.code === 'Space') {
 				read_joke();
 			}

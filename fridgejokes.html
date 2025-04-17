@@ -8,6 +8,10 @@
     <script type="text/javascript" src="./js/common.js"></script>
 </head>
 <body>
+    <div class="main-header">
+        <a href="https://titanioverde.github.io/">Portfolio</a> &#x2014; <a href="faq.html">FAQ</a> &#x2014; No cookies used, except for YouTube ones.
+    </div>
+
     <div class="horizon joke_frame_ani_start">
         <div id="main_joke_div" class="joke_frame main_joke">
             <div id="submitter_name" class="joke_submitter">&nbsp;</div>
@@ -30,6 +34,7 @@
 
     <script>
         document.addEventListener('DOMContentLoaded', function() {
+            space_pass();
             JokesManager.loadJokes().then(function() {
                 const urlParams = new URLSearchParams(window.location.search);
                 const jokeId = urlParams.get('joke');
