@@ -1,0 +1,466 @@
+@font-face {
+    font-family: Myriad;
+    src: url("Myriad.ttf");
+}
+
+body {
+    font-family: Myriad, sans-serif;
+    margin: 0 0 0 0;
+}
+
+header {
+    margin-top: 20pt;
+    font-size: 18pt;
+    text-shadow: 1px 1px rgba(255, 160, 0, 0.6);
+}
+
+a {
+    color : #999999;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+a:hover { color : #DDDDDD; }
+
+p {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+fieldset {
+    border: none;
+}
+
+/*form.send_form {
+    position: absolute;
+    width: 600px;
+    left: 50%;
+    margin-left: -250px;
+    top: 120px;
+}*/
+
+div.horizon {
+    position: absolute;
+    height: 1px;
+    width: 100%;
+    background-color: rgba(255, 255, 255, 0);
+    overflow: visible;
+    left: 0px;
+    bottom: 10%;
+}
+
+p.main_joke {
+    color: white;
+    font-size: 14pt;
+    overflow-y: auto;
+    height: 200px;
+}
+
+div.the_world {
+    z-index: -1;
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    margin: 0 0 0 0;
+    background-image: url("img/background01.jpg");
+    background-size: cover;
+    background-position-x: 100%;
+    background-position-y: 50%;
+}
+
+div.hidden {
+    display: none;
+}
+
+div.shadow {
+    z-index: 105;
+    border-radius: 12px;
+    border-style: solid;
+    box-shadow: 6px 6px 4px 4px rgba(0, 0, 0, 0.5);
+    position: fixed;
+    left: 40%;
+    top: 90px;
+    width: 360px;
+    background-color: #FFB;
+    border-color: yellow;
+    border-width: 2px;
+    padding: 10px 10px 10px 10px;
+}
+
+div.login {
+    width: 300px;
+    height: 180px;
+    background-color: white;
+}
+
+div.loading {
+    z-index: 5;
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background-color: black;
+    background-image: url('./img/Persona4_loading.gif');
+    background-position: bottom right;
+    background-repeat: no-repeat;
+    display: none;
+    cursor: wait;
+}
+
+div.sending {
+    z-index: 5;
+    position: absolute;
+    right: 50px;
+    top: 10px;
+    width: 100px;
+    height: 100px;
+    border-radius: 12px;
+}
+
+div.joke_frame {
+    border-radius: 12px;
+    padding: 2px 30px 12px 30px;
+    width: 880px;
+    height: 240px;
+    position: absolute;
+}
+
+div.main_joke {
+    background-color: #333300;
+    left: 50%;
+    bottom: 10%;
+    margin-left: -440px;
+    z-index: 1;
+    overflow-y: visible;
+}
+
+div.joke_frame_ani_start {
+    animation-name: upward;
+    animation-duration: 1s;
+    animation-timing-function: linear;
+}
+
+div.rear_frame {
+    background-color: #FFAA00;
+    left: 49%;
+    bottom: 10%;
+    margin-left: -440px;
+    z-index: 0;
+    transform-origin: 80% 50% 0;
+    transform: rotate(4deg);
+    animation-name: rear_rotate;
+    animation-duration: 1.5s;
+    animation-timing-function: linear;
+}
+
+div.joke_submitter {
+    background-color: transparent;
+    left: 20px;
+    bottom: 102%;
+    position: absolute;
+    z-index: 2;
+    font-size: 14pt;
+}
+
+div.joke_submitter p {
+    margin: 0px 0px 0px 0px;
+}
+
+p.linkable {
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+span.miniwarning {
+    font-size: 10pt;
+}
+
+p.vote_message {
+    font-size: 10pt;
+}
+
+nav.subsettings {
+    position: absolute;
+    right: 30%;
+    top: 60px;
+    background-color: rgba(255, 255, 196, 0);
+}
+
+a.subsettings {
+    font-size: 18pt;
+    margin-right: 5pt;
+}
+
+section.settings {
+    display: none;
+}
+
+section.settings header {
+    font-size: 110%;
+}
+
+section.normal_user {
+    display: block;
+}
+
+p.another_joke {
+    position: absolute;
+    text-align: right;
+    bottom: 10px;
+    right: 5%;
+    margin: 2px 2px 2px 2px;
+}
+
+p.another_joke a {
+    color: #FF7777;
+    font-size: 150%;
+}
+
+div.profile {
+    
+}
+
+span.no_profile {
+    font-size: 80%;
+    font-style: italic;
+    opacity: 0.8;
+}
+
+.country {
+    left: 50%;
+    top: 100px;
+    position: absolute;
+    width: 600px;
+    margin-left: -300px;
+    background-color: rgba(255, 255, 0, 0.75);
+    border-radius: 12px;
+    padding: 12px 12px 12px 12px;
+}
+
+div.faq {
+    height: 60%;
+    margin-bottom: 4%;
+    overflow-y: auto;
+}
+
+div.faq header {
+    cursor: pointer;
+    font-size: 120%;
+    text-decoration: underline;
+}
+
+#shadow_faq p {
+    text-align: justify;
+    display: none;
+}
+
+.menu {
+    width: 200px;
+    height: 100%;
+    position: fixed;
+    top: 0%;
+    left: 50%;
+    margin-left: -100px;
+    visibility: hidden;
+}
+
+nav.menu_front {
+    background: none;
+    z-index: 115;
+    padding-left: 16px;
+    opacity: 1;
+}
+
+nav.menu_front p {
+    cursor: pointer;
+}
+
+nav.menu_front p:hover {
+    color: #DDDDDD;
+}
+
+.menu_ani_common {
+    animation-duration: 0.5s;
+    animation-timing-function: linear;
+    animation-direction: normal;
+    animation-iteration-count: 1;    
+}
+
+.menu_front_ani_start {
+    animation-name: show_menu_front;
+}
+
+.menu_front_ani_end {
+    animation-name: hide_menu_front;
+}
+
+div.menu_rear {
+    z-index: 111;
+    background-color: #FFFF00;
+}
+
+div.menu_selection {
+    z-index: 114;
+    background-color: black;
+    border-radius: 6px;
+    width: 180px;
+    left: 50%;
+    margin-left: -90px;
+}
+
+.menu_rear_ani_start {
+    animation-name: show_menu_rear;
+}
+
+.menu_rear_ani_end {
+    animation-name: hide_menu_rear;
+}
+
+div.menu_button {
+    z-index: 100;
+    position: absolute;
+    border-style: solid;
+    border-color: green;
+    border-width: thin;
+    box-shadow: 0px 8px 6px 1px rgba(255, 160, 0, 0.6);
+    width: 120px;
+    height: 40px;
+    top: 0px;
+    left: 50%;
+    margin-left: -60px;
+    font-size: 110%;
+    background-color: rgba(255, 255, 48, 1);
+    text-align: center;
+    padding-top: 0px;
+    cursor: pointer;
+}
+
+div.to_close_menu {
+    z-index: 101;
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top: 0px;
+    left: 0px;
+    margin: 0 0 0 0;
+    background-color: rgba(0, 0, 0, 0.1);
+    visibility: hidden;
+}
+
+div.tune_player {
+    border-radius: 6px;
+    position: fixed;
+    z-index: 200;
+    width: 400px;
+    height: 200px;
+    background: blue;
+    margin: 0px 0px 0px 0px;
+    top: 12%;
+}
+
+div.tune_player table {
+    
+}
+
+div.tune_player td {
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+
+div.tune_player td.hide_button {
+    width: 20px;
+    
+}
+
+div.tune_player td.hide_button p {
+    font-size: 14pt;
+    color: white;
+    /*transform: rotate(270deg);*/
+}
+
+.tune_player_ani_common {
+    
+}
+
+.tune_player_show {
+    animation-name: show_tune_player;
+    left: 0px;
+}
+
+.tune_player_hide {
+    animation-name: hide_tune_player;
+    left: -380px;
+}
+
+div.tune_player_warning {
+    position: absolute;
+    background-color: transparent;
+    left: 100%;
+    top: 0%;
+    color: red;
+    font-size: 18pt;
+    display: block;
+    animation-name: hide_tune_player_warning;
+    animation-duration: 10s;
+    animation-direction: linear;
+}
+
+@keyframes upward {
+    0% { bottom: -100%; }
+    50% { bottom: -100%; }
+    100% { bottom: 10%; }
+}
+
+@keyframes rear_rotate {
+    0% { bottom: -100%; transform: rotate(0deg); left: 50%; }
+    33% { bottom: -100%; transform: rotate(0deg); left: 50%; }
+    67% { bottom: 10%; transform: rotate(0deg); left: 50%; }
+    100% { transform: rotate(4deg); left: 49%; }
+}
+
+@keyframes show_menu_rear {
+    from { width: 0px; }
+    to { width: 200px; }
+}
+
+@keyframes hide_menu_rear {
+    from { width: 200px; }
+    to { width: 0px; }
+}
+
+@keyframes show_menu_front {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+
+@keyframes hide_menu_front {
+    from { opacity: 1; }
+    to { opacity: 0; }
+}
+
+@keyframes show_tune_player {
+    from { left: -380px; }
+    to { left: 0px; }
+}
+
+@keyframes hide_tune_player {
+    from { left: 0px; }
+    to { left: -380px; }
+}
+
+@keyframes hide_tune_player_warning {
+    0% { opacity: 1; }
+    50% { opacity: 1; }
+    100% { opacity: 0; }
+}
+
+.fade-transition {
+    transition: opacity 250ms ease-in-out;
+}
+
+.fade-out {
+    opacity: 0;
+}
+
+.fade-in {
+    opacity: 1;
+}

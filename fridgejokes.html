@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fridge Jokes</title>
+    <link rel="stylesheet" href="./default.css">
+    <script src="./js/common.js"></script>
+    <script src="./lib/prefixfree.min.js"></script>
+</head>
+<body>
+    <div class="horizon joke_frame_ani_start">
+        <div id="main_joke_div" class="joke_frame main_joke">
+            <div id="submitter_name" class="joke_submitter">&nbsp;</div>
+            
+            <div id="main_joke_text">
+                <p id="main_joke_p" class="main_joke">&nbsp;</p>
+            </div>
+
+            <p class="another_joke">
+                <a onClick="read_joke()">
+                    <acronym title="Read another random joke">Next</acronym>
+                </a>
+            </p>
+        </div>
+
+        <div id="main_joke_background" class="joke_frame rear_frame">
+            <p></p>
+        </div>
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            JokesManager.loadJokes().then(function() {
+                const urlParams = new URLSearchParams(window.location.search);
+                const jokeId = urlParams.get('joke');
+                read_joke(jokeId);
+            });
+        });
+    </script>
+
+
+
+    <div id="the_world" class="the_world">
+        <p></p>
+    </div>
+    
+    <div id="myalert" class="shadow hidden">
+        <p></p>
+    </div>
+    
+</body>
+</html>
