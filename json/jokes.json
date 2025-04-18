@@ -1,12 +1,322 @@
 [
     {
         "id": 1,
-        "text": "I know that may sound stupid, but...\n>You opened the fridge.\n>You see a bipedal tank.\n>Investigate?\n>>Yes.\n>No.\n>While investigating it, you ended up in some lost island near Alaska in a archipelago.",
+        "text": "I know that may sound stupid, but...<br/>>You opened the fridge.<br/>>You see a bipedal tank.<br/>>Investigate?<br/>>>Yes.<br/>>No.<br/>>While investigating it, you ended up in some lost island near Alaska in a archipelago.",
         "submitter": "AvengerofWarcraft"
     },
     {
         "id": 2,
-        "text": ">You open the fridge\n>It's Igor's nose\n>Eat it?\n>Yes\n>Your Understanding has increased!\n",
+        "text": ">You open the fridge<br/>>It's Igor's nose<br/>>Eat it?<br/>>Yes<br/>>Your Understanding has increased!",
         "submitter": "TheSlammurai"
+    },
+    {
+        "id": 3,
+        "text": ">You watched the Midnight Channel while eating Nanako's Science project.",
+        "submitter": "Burrit0burger"
+    },
+    {
+        "id": 4,
+        "text": ">Your stomach realizes what you're trying to do and rebels. You stop trying to eat the grass.",
+        "submitter": "xSesuKunx"
+    },
+    {
+        "id": 5,
+        "text": ">You open the fridge.<br/>>There's some wasabi in the fridge.<br/>>....Lick it?<br/>>[Yes] No<br/>>You licked the wasabi.<br/>>It was a terrible decision, the tears won't stop flowing from your eyes.<br/>>Your courage has increased.",
+        "submitter": "blackblur589"
+    },
+    {
+        "id": 6,
+        "text": ">You open the fridge.<br/>>You see Adachi inside.<br/>>You close the door to the fridge upon his insistence.<br/>>You ponder how he got inside your fridge in the first place.<br/>>Your expression has significantly increased!",
+        "submitter": "TheUncannyX"
+    },
+    {
+        "id": 7,
+        "text": "> Nanako \"Welcome Home Big... *pass out*<br/>> Should You Help Nanako<br/>>> [Yes] No Call Dojima<br/>> You Don't have enough Understanding To Save Nanako, Game Over",
+        "submitter": "XxTylerTheDragonXx"
+    },
+    {
+        "id": 8,
+        "text": ">You open the fridge<br/>>There's some cabbage. Adachi brought it yesterday. It looks kinda weird.<br/>>Eat it?<br/>>Yes<br/>>You eated the cabbage<br/>>You don't know why, but you see women as bitches and whores.",
+        "submitter": "TheChosedOne7"
+    },
+    {
+        "id": 9,
+        "text": ">You open the fridge<br/>>You saw lots of fridge jokes<br/>>Make one?<br/>>Yes<br/>>You're actually making one now",
+        "submitter": "Adachi Tohru"
+    },
+    {
+        "id": 10,
+        "text": ">You open the fridge.<br/>>It's empty.<br/>>You realize the fridge is a metaphor for your life.<br/>>You smack Nanako around a little bit to let out all your pent up passive aggression.",
+        "submitter": "KirkJohnson34"
+    },
+    {
+        "id": 11,
+        "text": ">You open the fridge.<br/>>Put on your glasses?<br/>>[Yes] No<br/>>You decide that these fridge jokes are too mainstream and go to bed.",
+        "submitter": "IcyPheonix3"
+    },
+    {
+        "id": 12,
+        "text": ">You open the fridge<br/>>There's a funny series of youtube comments inside.<br/>>Join in?<br/>>[Yes] No<br/>>You decided to comment with it.<br/>>Nothing has changed.",
+        "submitter": "maychanx31"
+    },
+    {
+        "id": 13,
+        "text": ">You open the fridge<br/>>There's a bandwagon inside<br/>>Jump on it?",
+        "submitter": "Thomas Bisset"
+    },
+    {
+        "id": 14,
+        "text": ">You open the fridge.<br/>>A voice from inside informs you that there is no Dana, only Zuul.<br/>>You close the fridge, while pondering who you can call about this.",
+        "submitter": "KirkJohnson34"
+    },
+    {
+        "id": 15,
+        "text": ">You open the fridge<br/>>There's some mysterious green mold growing in the back.<br/>>Eat it?<br/>>>Yes<br/>>Your Thoughtless Stupidity has increased!",
+        "submitter": "YosukeHanamurasLOVE"
+    },
+    {
+        "id": 16,
+        "text": ">You open the fridge...<br/>>There's bottle of milk way past its expiration date<br/>>Drink it? >Yes >No<br/>>You drank the milk<br/>>......<br/>>......<br/>>......<br/>>You begin to feel dizzy, you hear a familiar voice, a blurry figure like Teddie stands before you with a rape face.<br/>>You blacked out....",
+        "submitter": "ANGRYMAPLE"
+    },
+    {
+        "id": 17,
+        "text": ">You Opened the fridge<br/>>You see a Hamburger.<br/>>...eat it?<br/>>yes<br/>>You go to sleep the next day...<br/>>Teddie: I think i left a Hamburger at your house when i was playing with Nanako, Have you seen them?<br/>>Yes<br/>>Teddie: Where is it then?<br/>>Point Stomach<br/>>Run<br/>>Teddie: Rawr!!",
+        "submitter": "11wow111RETURNS"
+    },
+    {
+        "id": 18,
+        "text": ">You opened the fridge<br/>>You see a jar of pickled relish<br/>>Eat it?<br/>>No<br/>>>Yes<br/>>You feel funny and decide to go to bed early<br/>>You dreamed that your uncle was using you as target practice for eating his relish that Nanako had bought for him.",
+        "submitter": "DreamCloud10"
+    },
+    {
+        "id": 19,
+        "text": ">You open the fridge<br/>>There's a good-looking cake<br/>>...eat it?<br/>>>Yes<br/>>......?<br/>>You ate the cake then notice a letter<br/>>...read it?<br/>>>Yes<br/>>''dear souji we're still mad at you for signing us up for the beauty pageant so enjoy! from -chie and yukiko''<br/>>...you start to feel dizzy...memories of the school campout came back...you seriously regret that!<br/>>Note to self: stop eating stuff from dojima's fridge<br/>>...you remember you're mad at yosuke<br/>>...give him the cake?<br/>>>Yes<br/>>MWAHAHAHA!",
+        "submitter": "TheRainbowkelly"
+    },
+    {
+        "id": 20,
+        "text": ">You open the fridge.<br/>>There's a good-looking Spoiler inside.<br/>>...Eat it?<br/>>>Yes.<br/>>No.<br/>>...<br/>>Your Courage has increased.<br/>>Your Knowledge has increased.<br/>>Your Mood has decreased.",
+        "submitter": "Yoomero8D"
+    },
+    {
+        "id": 21,
+        "text": ">You open the fridge<br/>>You see Mystery Food X inside<br/>>....eat it?<br/>>>Yes<br/>>No<br/>>.......<br/>>................<br/>>It was Mystery food X!<br/>>All your stats have been reduced to 0, all your social links have reversed, you've got a weird itch, someone stole your wallet, and Margaret emptied out the compendium.<br/>>You decided screw it you're going home<br/>>GAME OVER",
+        "submitter": "DreamCloud10"
+    },
+    {
+        "id": 22,
+        "text": ">You open the fridge<br/>>You find a block of C4<br/>>You decided to put it in Nanako's Backpack<br/>>Your 'Evil Bastard' has significantly increased",
+        "submitter": "Aurainmaker" 
+    },
+    {
+        "id": 23,
+        "text": ">You opened the fridge<br/>>There's white miso<br/>>You think that this used to be red miso, though<br/>>There is a package of red miso, but it is far past its expiration date<br/>>Eat it?<br/>>Yes<br/>>Your tongue hurts...<br/>>Your eyes water from the odor...<br/>>Your throat is burning...",
+        "submitter": "BiologicalClock"
+    },
+    {
+        "id": 24,
+        "text": ">You open the fridge<br/>>You see that there is a well made sushi that says 'do not eat MC'<br/>>You remove the sign and eat it anyway<br/>>Your 'Helping People' has increased greatly...",
+        "submitter": "soraeyo"
+    },
+    {
+        "id": 25,
+        "text": ">You opened the fridge<br/>>There's a shadow in the fridge<br/>>Eat a little, without telling your persona?<br/>>[Yes]<br/>>No",
+        "submitter": "SilEntNiGHtPhanTom"
+    },
+    {
+        "id": 26,
+        "text": ">There's some peanut butter in the fridge<br/>>...<br/>>...Wait, what?<br/>TRUE STORY LOL. Peanut butter doesn't go there, unfortunately.",
+        "submitter": "HappilyAnti"
+    },
+    {
+        "id": 27,
+        "text": ">You opened the fridge<br/>>You see a sheet of paper<br/>>Read it?<br/>>[Yes] No<br/>>It's the lyrics to Your Affection.<br/>>You realize that it's \"Taking pride from fear\" instead of \"Get me some coffee\".<br/>>Your understanding has greatly increased.",
+        "submitter": "dante10022003"
+    },
+    {
+        "id": 28,
+        "text": ">You opened the fridge<br/>>You see a gun and a sheet of paper<br/>>The instructions say \"Evoker\"<br/>>You know what to do<br/>>Do it?<br/>>Yes<br/>>You pull the trigger<br/>>You look to the left and see your brains on the wall<br/>>What an awful mistake...<br/>>Game over man...",
+        "submitter": "TronDevlin"
+    },
+    {
+        "id": 29, 
+        "text": ">You opened the fridge<br/>>You see a small pack of raccoons inside<br/>>........................<br/>>You cannot process what this could possibly be about<br/>>You decide to ignore it.",
+        "submitter": "spongefan1"
+    },
+    {
+        "id": 30,
+        "text": ">You opened the fridge<br/>>Surprisingly, you found a copy of Persona 3! It's your lucky day!<br/>>Then again, you begin to wonder why you have a strange sense of deja vu...<br/>>..................<br/>>Disturbed, you decide to leave it alone",
+        "submitter": "yummywaffles96"
+    },
+    {
+        "id": 31,
+        "text": ">You open the fridge<br/>>You see some mistery food X<br/>>Eat it?<br/>>No<br/>>Yes<br/>>\"Life is truth and never a dream\"",
+        "submitter": "kazemaru95421"
+    },
+    {
+        "id": 32,
+        "text": ">You opened the fridge<br/>>You see a small mouse rolling around in an empty jar of jelly<br/>>You get a strange sense of deja'vu.....<br/>>,,,,,<br/>>You decided to leave it be.",
+        "submitter": "swordfish1390"
+    },
+    {
+        "id": 33,
+        "text": ">You open the fridge<br/>>You see nothing that catch your eyes<br/>>What do you do?<br/>>Close it<br/>>WTH is this always empty?!<br/>>You enter the fridge and find P3 MC.<br/>>P4 MC: wow so this is where he was...",
+        "submitter": "MalvaPura"
+    },
+    {
+        "id": 34,
+        "text": ">You opened the fridge<br/>>Suddenly, DICKS EVERYWHERE",
+        "submitter": "BUDGETFREE"
+    },
+    {
+        "id": 35,
+        "text": ">You opened the fridge<br/>>You see an Exsphere<br/>>Equip it?<br/>>>Yes<br/>>No<br/>>You turned into an Exbelua. Now you're fucked.",
+        "submitter": "VaatiOfDarkness"
+    },
+    {
+        "id": 36,
+        "text": ">You open the fridge<br/>>You see a suppressant<br/>>...Take it?<br/>>Yes<br/>>No<br/>>You end up like Shinjiro",
+        "submitter": "gyminus23"
+    },
+    {
+        "id": 37,
+        "text": ">You open the fridge.<br/>>There's Nyx in a jar.<br/>>Eat it?<br/>>>Yes<br/>>No<br/>>Congratulations. You have prevented the fall.",
+        "submitter": "OEGSProductions"
+    },
+    {
+        "id": 38,
+        "text": ">You open the fridge...<br/>>There's a parasitic worm.<br/>>...Eat it?<br/>>>Yes<br/>>You welcome the parasitic worm into your heart... literally...<br/>>You don't feel well, you decide to go to the hospital.<br/>>It is made up of 16 segments. It turns into two segments when you cut it. Two more, over and over until you've got 16 of the little bastards running all over his body. NURSE, LASER!",
+        "submitter": "RaiKanZu"
+    },
+    {
+        "id": 39,
+        "text": ">Opened the fridge<br/>>You see a lemon inside<br/>>eat it?<br/>>yes<br/>>no<br/>>Turns out it was nanako's head. You feel like a bastard.",
+        "submitter": "reaperofthedamned07"
+    },
+    {
+        "id": 40,
+        "text": ">You opened the fridge.<br/>>Teddie is stuck inside.<br/>>....Eat him?<br/>>Yes<br/>>No<br/>>All of your stats have increased!<br/>>However... You have now just broken the Star Social Link, thus being unable to create Personas of the Star Arcana.<br/>>GAME OVER.<br/>>NOOOOOOOOOOOO! XD",
+        "submitter": "catbuffalo"
+    },
+    {
+        "id": 41,
+        "text": ">You opened the fridge<br/>>You see mysterious green mold growing in the back<br/>>Eat it?<br/>>>Yes<br/>>...Your Thoughtless Stupidity has increased!",
+        "submitter": "Yuuraki"
+    },
+    {
+        "id": 42,
+        "text": ">You open the fridge<br/>>You see a model rocket<br/>>There's note attached: To Russia<br/>>Eat It?<br/>>>Yes<br/>>No<br/>>Dee Dee Ramone comes back as a shadow and asks if you've heard about the word.",
+        "submitter": "LeoJohnGalt"
+    },
+    {
+        "id": 43,
+        "text": ">You opened the fridge<br/>>You see the videogame \"Persona 4\" inside<br/>>...Play it?<br/>>>Yes<br/>>No<br/>>....<br/>>You don't know why, but you feel like you've been controled by yourself...<br/>>You decide to head straight to bed.",
+        "submitter": "Agusloquillo"
+    },
+    {
+        "id": 44,
+        "text": ">You opened the fridge<br/>>You see a copy of the surfing bird cd. will you play it?<br/>>yes<br/>>no<br/>>*nanako points gun in her mouth*<br/>>1 week later.....<br/>>MC- Nanako, havent you heard!?<br/>>Nanako- about what?<br/>>Dojima- nanako, wait---!<br/>>MC- BIRD IS THE WORD!",
+        "submitter": "swordfish1390"
+    },
+    {
+        "id": 45,
+        "text": ">You opened the fridge.<br/>>You see a \"Mara\" figurine.<br/>>...Upon closer inspection, Mara's figurine turns out to be flexible... like those women's equipments.<br/>>...<br/>>You decided to leave it inside.",
+        "submitter": "Voxerik"
+    },
+    {
+        "id": 46,
+        "text": "> You opened the fridge.<br/>>Nanako is sitting in the fridge, talking to a toaster.<br/>>You have the ingredients to make Toasted Lolita Crackers.<br/>>Make lunch for tomorrow?<br/>>>Yes<br/>>No<br/>>You sliced Nanako up into waffles. How should you cook her?<br/>>Toast her lightly<br/>>Cover her in sake, then toast<br/>>Turn her into sushi and fry<br/>>>Leave the Nanako Waffles for Dojima<br/>>Your understanding has increased.",
+        "submitter": "ChaosmusicEX"
+    },
+    {
+        "id": 47,
+        "text": ">You open the fridge<br/>>You see some purple substance<br/>>....eat it?<br/>>>Yes<br/>>No<br/>.........<br/>..................<br/>>It was Mystery food X!<br/>>All your stats have been reduced to 0, all your social links have reversed, you've got a weird itch, someone stole your wallet, and Margaret emptied out the compendium.<br/>>You decided screw it you're going home<br/>>GAME OVER",
+        "submitter": "Cloud33"
+    },
+    {
+        "id": 48,
+        "text": ">You opened the fridge...<br/>>You found Rise drunk in there.<br/>>Take her to bed...<br/>>>Yes.<br/>>No.<br/>>After you put Rise in bed, she grabs your hand and she tells you to sleep with her.<br/>>Stay for a while?<br/>>>Hell yes.<br/>>...Err...no.",
+        "submitter": "falcolegend"
+    },
+    {
+        "id": 49,
+        "text": ">You opened the fridge...<br/>>You found Nanako inside.<br/>>It seems she wants to marry you.<br/>>Accept her proposal?<br/>>>Yes<br/>>No<br/>>Ryotaro rushed in<br/>>Ryotaro: WHAT THE HELL ARE YOU DOING!!!<br/>>You were arrested for pedophilia<br/>>All your social links have gone to full negative.<br/>>Whole Inaba hates you",
+        "submitter": "Deadagent"
+    },
+    {
+        "id": 50,
+        "text": ">You Opened the fridge...<br/>>There's some fortune cookies inside.<br/>>...Take one?<br/>>>Yes<br/>>no<br/>>You ate the fortune cookies.<br/>>You read the fortune...<br/>>... It says...<br/>>YOU LOST THE GAME",
+        "submitter": "Skinnydevil1995"
+    },
+    {
+        "id": 51,
+        "text": ">You open the fridge<br/>>You see the P4 soundtrack CD inside<br/>>You remember that this song isn't on it<br/>>. . . . . . . . . . .<br/>>You decide to leave it there",
+        "submitter": "Sephiko"
+    },
+    {
+        "id": 52,
+        "text": ">You open the fridge<br/>>You see a can of baygon<br/>>Who would have put it here...?<br/>>.....<br/>>Drink it?<br/>>Yes<br/>>No<br/>>Holy cow....! It just tastes like Sprite Zero Sugar....!<br/>>Your Courage has reached its maximum level<br/>>Your Knowledge has reached its maximum level<br/>>However.....<br/>>You feel that your life is in peril & critical condition......<br/>>.........<br/>>You slumped to the ground with your mouth foaming.....",
+        "submitter": "kolangkaling10"
+    },
+    {
+        "id": 53,
+        "text": ">You opened the fridge<br/>>You saw somekind of portal inside it...<br/>>Touch it?<br/>>Yes<br/>>No<br/>>!!!! You were inside Mayonaka Fridge!! O.o<br/>>Im sorry for d randomness :D",
+        "submitter": "SilEntNiGHtPhanTom"
+    },
+    {
+        "id": 54,
+        "text": ">You opened the fridge.<br/>>A sketchbook is in here with a picture of a guy with a goatee on the front page.<br/>>....<br/>>You decided to leave it alone.",
+        "submitter": "VaatiOfDarkness"
+    },
+    {
+        "id": 55,
+        "text": ">You opened the fridge<br/>>There is a bowel with miso in it...<br/>>Something highly disturbs you about it<br/>>Eat It?<br/>>......<br/>>Your stomach knew what you was trying to do and retaliated",
+        "submitter": "NarutoloverHinata"
+    },
+    {
+        "id": 56,
+        "text": ">You opened the fridge.<br/>>It's extremely foggy inside...<br/>>Your mind cannot process what is going on...<br/>>You shut the fridge door and pretend everything is completely normal.",
+        "submitter": "VaatiOfDarkness"
+    },
+    {
+        "id": 57,
+        "text": ">You opened the fridge...<br/>>It's extremely foggy inside.<br/>>You see a Shadow attempting to steal the cheese...<br/>>You left it alone.",
+        "submitter": "VaatiOfDarkness"
+    },
+    {
+        "id": 58,
+        "text": ">There's a note on the refrigerator door....<br/>>Dear MC, please don't eat my sandwich and rice. It's my lunch tomorrow. Thanks! Dojima<br/>>Eat the sandwich and rice<br/>>Yes<br/>>Since you ate Dojima's sandwich, he will remain mad at you for the remaining months. Thus, being unable to progress S.Link.<br/>>...ffffffffffffffuck!",
+        "submitter": "lightskinboi06"
+    },
+    {
+        "id": 59,
+        "text": ">You opened the fridge.<br/>>...<br/>>You noticed an azalea in a pot.<br/>>Eat it?<br/>>Yes<br/>>...<br/>>You feel a slight feeling of being eversed. You learned that word from this text message. Unfortunately, it reminds you of a certain platformer you played last night.<br/>>Your Expression has greatly increased.<br/>>Your Knowledge has greatly increased.<br/>>Your Understanding has greatly increased.<br/>>Your Courage has dropped to Level 1.<br/>>You feel that you must work off the nightmares in bed.",
+        "submitter": "Casparatis"
+    },
+    {
+        "id": 60,
+        "text": ">You opened the fridge<br/>>You noticed a penguin secret animal cracker<br/>>Will you eat it?<br/>>Yes<br/>>No<br/>>...........<br/>>Before you had the time to eat it kanji smashed a chair at your head, stole your secret cracker, and raped you while you were unconscious....<br/>>GAME OVER!",
+        "submitter": "Klausiancliff89"
+    },
+    {
+        "id": 61,
+        "text": ">You open the fridge<br/>>You see Yosuke stuck inside<br/>>............<br/>>Game Over",
+        "submitter": "marsmahboi"
+    },
+    {
+        "id": 62,
+        "text": ">You open the fridge.<br/>>You see a smaller fridge inside.....<br/>>......<br/>>Open it?<br/>>Yes<br/>>No<br/>>Inside is another, even smaller fridge.<br/>>You continue opening fridges, each one containg an identical, yet slightly smaller, fridge.<br/>>............<br/>>You starve to death, having spent 3 days opening refrigerators without finding any food.<br/>>......<br/>>BAD END",
+        "submitter": "Quaquecyoe"
+    },
+    {
+        "id": 63,
+        "text": ">You opened the fridge<br/>>You see Nanako's Pudding.<br/>>.......<br/>>Eat it?<br/>>yes<br/>>no<br/>>Your Courage has greatly increased.<br/>>Your Understanding has greatly decreased.",
+        "submitter": "Gravelneed"
+    },
+    {
+        "id": 64,
+        "text": ">You open the fridge<br/>>You see an alarm clock ticking away<br/>>was Dojima in a hurry this morning?<br/>>...<br/>>Eat it?",
+        "submitter": "AnetteSeraphitaVee"
     }
 ]

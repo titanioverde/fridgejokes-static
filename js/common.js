@@ -26,9 +26,15 @@ const JokesManager = {
     },
     getRandomJoke: function() {
         const getRandomFromArray = arr => arr[Math.floor(Math.random() * arr.length)];
+        const currentJokeId = new URL(window.location).searchParams.get('joke');
         
         return this.loadJokes()
-            .then(() => getRandomFromArray(this.jokes));
+            .then(() => {
+                const availableJokes = currentJokeId ? 
+                    this.jokes.filter(joke => joke.id != currentJokeId) : 
+                    this.jokes;
+                return getRandomFromArray(availableJokes);
+            });
     },
     getJokeById: function(id) {
         return this.loadJokes().then(() => {
