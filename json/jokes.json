@@ -1,8 +1,8 @@
 [
     {
         "id": 1,
-        "text": "I know that may sound stupid, but...<br/>>You opened the fridge.<br/>>You see a bipedal tank.<br/>>Investigate?<br/>>>Yes.<br/>>No.<br/>>While investigating it, you ended up in some lost island near Alaska in a archipelago.",
-        "submitter": "AvengerofWarcraft"
+        "text": ">You open the fridge.<br/>>There's some wasabi in the fridge.<br/>>....Lick it?<br/>>[Yes] No<br/>>You licked the wasabi.<br/>>It was a terrible decision, the tears won't stop flowing from your eyes.<br/>>Your courage has increased.",
+        "submitter": "blackblur589"
     },
     {
         "id": 2,
@@ -21,8 +21,8 @@
     },
     {
         "id": 5,
-        "text": ">You open the fridge.<br/>>There's some wasabi in the fridge.<br/>>....Lick it?<br/>>[Yes] No<br/>>You licked the wasabi.<br/>>It was a terrible decision, the tears won't stop flowing from your eyes.<br/>>Your courage has increased.",
-        "submitter": "blackblur589"
+        "text": ">You opened the fridge.<br/>>You see a bipedal tank.<br/>>Investigate?<br/>>>Yes.<br/>>No.<br/>>While investigating it, you ended up in some lost island near Alaska in a archipelago.",
+        "submitter": "AvengerofWarcraft"
     },
     {
         "id": 6,
@@ -216,7 +216,7 @@
     },
     {
         "id": 44,
-        "text": ">You opened the fridge<br/>>You see a copy of the surfing bird cd. will you play it?<br/>>yes<br/>>no<br/>>*nanako points gun in her mouth*<br/>>1 week later.....<br/>>MC- Nanako, havent you heard!?<br/>>Nanako- about what?<br/>>Dojima- nanako, wait---!<br/>>MC- BIRD IS THE WORD!",
+        "text": ">You opened the fridge<br/>>You see a copy of the surfing bird cd. will you play it?<br/>>>yes >no<br/>>*nanako points gun in her mouth*<br/>>1 week later.....<br/>>MC- Nanako, havent you heard!?<br/>>Nanako- about what?<br/>>Dojima- nanako, wait---!<br/>>MC- BIRD IS THE WORD!",
         "submitter": "swordfish1390"
     },
     {
@@ -306,7 +306,7 @@
     },
     {
         "id": 62,
-        "text": ">You open the fridge.<br/>>You see a smaller fridge inside.....<br/>>......<br/>>Open it?<br/>>Yes<br/>>No<br/>>Inside is another, even smaller fridge.<br/>>You continue opening fridges, each one containg an identical, yet slightly smaller, fridge.<br/>>............<br/>>You starve to death, having spent 3 days opening refrigerators without finding any food.<br/>>......<br/>>BAD END",
+        "text": ">You open the fridge.<br/>>You see a smaller fridge inside.....<br/>>Open it?<br/>>Yes<br/>>No<br/>>Inside is another, even smaller fridge.<br/>>You continue opening fridges, each one containg an identical, yet slightly smaller, fridge.<br/>>You starve to death, having spent 3 days opening refrigerators without finding any food.<br/>>BAD END",
         "submitter": "Quaquecyoe"
     },
     {

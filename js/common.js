@@ -77,8 +77,6 @@ function show_hide_player() {
     player.classList.toggle('tune_player_show');
 }
 
-let calling = null;
-
 function displayJoke(data) {
     const jokeText = document.querySelector('div#main_joke_text p.main_joke');
     jokeText.innerHTML = data.text;
@@ -96,8 +94,6 @@ function displayJoke(data) {
 }
 
 function read_joke(jokeId) {
-    if (calling && calling.abort) calling.abort();
-
     fadeOut(document.querySelector('div#main_joke_text p.main_joke'), 250);
     fadeOut(document.querySelector('div#submitter_name'), 250);
 

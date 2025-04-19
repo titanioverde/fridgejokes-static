@@ -38,7 +38,11 @@
             JokesManager.loadJokes().then(function() {
                 const urlParams = new URLSearchParams(window.location.search);
                 const jokeId = urlParams.get('joke');
-                read_joke(jokeId);
+                if (jokeId === null) {
+                    read_joke(1);
+                } else {
+                    read_joke(jokeId);
+                }
             });
         });
     </script>
@@ -48,7 +52,7 @@
             <tr>
                 <td class='tune_player'>
                     <iframe width='376' height='190'
-                        src='http://www.youtube.com/embed/QR4AGuQT-g4?list=PL4HqDRVVxfT33nsrKX0dFoLtnWGwCbbiz&amp;autoplay=0&amp;autohide=0&amp;fs=0&amp;loop=1&amp;theme=light&amp;version=3' frameborder='0'>
+                        src='https://www.youtube-nocookie.com/embed/QR4AGuQT-g4?list=PL4HqDRVVxfT33nsrKX0dFoLtnWGwCbbiz&amp;autoplay=0&amp;autohide=0&amp;fs=0&amp;loop=1&amp;theme=light&amp;version=3' frameborder='0'>
                     </iframe>
                 </td>
                 <td class='hide_button'><p>&#x266B;</p></td>
